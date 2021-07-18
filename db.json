@@ -1,0 +1,2069 @@
+{
+    "amazonprime":[
+        {
+            "id":1,
+            "year":2021,
+            "name":"Karnan",
+            "genre":"Action",
+            "profile":"https://image.tmdb.org/t/p/w500/xIDQqpLBYHrXE9G34UbVD9K0pvG.jpg",
+            "cast":"Dhanush,Lal,Rajisha Vijayan,Yogi Babu",
+            "overview":"An angry young man fights for the rights of his oppressed people. Can he save them from those who wield power and weapons? ", 
+            "wheretowatch":"https://i.pinimg.com/564x/af/3c/04/af3c040bb316cf65b7bc569037e2d933.jpg",
+            "rating":4.5,
+            "imdbrating":8.5,
+            "runtime":"152 minutes",
+            "language":"Tamil",
+            "director":"Mari Selvraj"
+          
+        },  
+        {
+        "id": 2,
+        "year":2020,
+        "name":"Baaghi3",
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+        "cast":"Tiger Shroff,Shraddha Kapoor,Riteish Deshmukh",
+        "overview":"In a twisted turn of events,when a group of deadly terrorists kidnap Ronnie's elder brother in Dyria,he sets off on a mission to bring him back ",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":2.5,
+        "imdbrating":5,
+        "runtime":"144 minutes",
+        "language":"Hindi",
+        "genre":"Action",
+        "director":"Ahmed Khan"
+    },
+    {
+        "id":3,
+        "year":2018,
+        "name":"Bahubali2:The Conclusion",
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5085/635085-v",
+        "cast":"Prabhas,Rana Daggubati,Anushka,Tamanna,RamyaKrishna,Satya raj,Nazar",
+        "overview":"Why did Kattappa Kill Amarendra Baahubali? Find out the answer to this monumental questions as you watch Amarendra's son in action in the sequel",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":4,
+        "imdbrating":8.2,
+        "runtime":"160 minutes",
+        "language":"Telugu/Tamil/Hindi",
+        "genre":"Action",
+        "director":"S.S.Rajamouli"
+
+    },
+    {
+        "id":4,
+        "name":"Tanhaji",
+        "year":2020,
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7676/647676-v",
+        "cast":"Ajay Devgn,Saif Ali Khan,Kajol",
+        "overview":"As Aurangzeb captures the Kondhana Fort,Tanhaji Malusare,Shivaji Maharaj's trusted military leader and braveheart, ventures out to win it back. ",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":3.4,
+        "imdbrating":7.6,
+        "runtime":"132 minutes",
+        "language":"Hindi/marathi",
+        "genre":"Action",
+        "director":"Om Raut"
+
+    },
+    {
+        "id":5,
+        "year":2020,
+        "name":"Mission Mangal",
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1529/571529-v",
+        "cast":"Akshay Kumar,Vidya Balan,Taapsee Pannu ,Nitya Menon",
+        "overview":"Based on the true story of India's finest scientists who rose above hardships and failures to make us the only country to reach Mars in its first attempt ",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":4,
+        "imdbrating":6.5,
+        "runtime":"130 minutes",
+        "language":"Hindi",
+        "genre":"Drama",
+        "director":"Jagan Shakti"
+
+    },
+    {
+        "id":6,
+        "year":2020,
+        "name":"Sulthan",
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7899/977899-v",
+        "cast":"Karthi,rakshmika Mandanna, Napolean",
+        "overview":"Despite being raised by hardened criminals,Vikram,aka Sultan,hates violence and decides to transform them into law-abiding citizens.But will they agree? ",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":3.5,
+        "imdbrating":6.4,
+        "runtime":"156 minutes",
+        "language":"Tamil/Telugu",
+        "genre":"Action",
+        "director":"Bakkiyaraj Kannan"
+
+    },
+    {
+        "id":7,
+        "name":"Dil Bechara",
+        "year":2020,
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3085/723085-v",
+        "cast":"Sushanth Singh Rajput, Sanjana Sanghi , Sahil Vaid",
+        "overview":"Kizie and Manny , two ordinary people brought together by a tragic twist, embark on a bittersweet and extraordinary journey into the heart of that crazy little thing called 'Life'. ",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":3.3,
+        "imdbrating":6.6,
+        "runtime":"161 minutes",
+        "language":"Hindi",
+        "genre":"Romance",
+        "director":"Mukesh Chhabra"
+
+    },
+    {
+        "id":8,
+        "name":"Frozen II",
+        "year":2020,
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5206/875206-v",
+        "cast":"Kristen Bell (voice) , idina Menzel ( voice) , Josh ad (voice)",
+        "overview":"Why was Elsa born with magical powers?Together with Anna,Kristoff,Olaf,and Sven, she sets out on a dangerous but remarkable journey to find the answer. ",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":3.4,
+        "imdbrating":6.8,
+        "runtime":"104 minutes",
+        "language":"English/Hindi/Tamil/Telugu",
+        "genre":"Musical",
+        "director":"Chris Buck , Jennifer Lee"
+
+    },
+    {
+        "id":9,
+        "year":2020,
+        "name":"Houseful 4",
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3669/593669-v",
+        "cast":"Akshay Kumar,Sam Nagar, Riteish Deshmukh",
+        "overview":"A set of six lovers had to part ways in 1419. Six centuries later, they meet again only to realise that they are marrying the wrong partners, Old villain and a series of mishaps turn this reincarnation drama into a comedy of errors.",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":1.7,
+        "imdbrating":3.4,
+        "runtime":"135 minutes",
+        "language":"Hindi",
+        "genre":"Comedy",
+        "director":"Farhad Samji"
+
+    },
+    {
+        "id":10,
+        "year":2020,
+        "name":"Gang Leader",
+        "profile":"https://image.tmdb.org/t/p/w500/ejXpzRk1jyZenFhYANehhk4vGcD.jpg",
+        "cast":"Nani,Priyanka,Lakshmi",
+        "overview":"pencil is a budding crime novalist looking for inspiration when he crosses paths with five generations of women who come together with for vegeance.",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":3.8,
+        "imdbrating":7.7,
+        "runtime":"155 minutes",
+        "language":"Telugu/Tamil",
+        "genre":"Comedy",
+        "director":"Vikram K. Kumar"
+
+    },
+    {
+        "id":11,
+        "year":2020,
+        "name":"Raid",
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/old_images/vertical/MOVIE/2789/1000212789/1000212789-v",
+        "cast":"Ajay Devgn , Ileana SCruz , Amit Bimrot",
+        "overview":"Fearless income tax officer Amay Patnaik carries out a risky raid at the mansion odf the most powerful man in lucknow.Inspired by real life events. ",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":3.7,
+        "imdbrating":7.4,
+        "runtime":"115 minutes",
+        "language":"Hindi",
+        "genre":"Crime",
+        "director":"Raj Kumar Gupta"
+
+    },
+    {
+        "id":12,
+        "year":2018,
+        "name":"2 States",
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/old_images/vertical/MOVIE/4502/1000034502/1000034502-v",
+        "cast":"Arjun Kapoor, Alia Bhatt, Amrita Singh",
+        "overview":"Based on a novel by Chetan Bhagat;North and South Indian come together in this whirlwind romance between a punjabi boy and a tamilian girl",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":3.8,
+        "imdbrating":6.9,
+        "runtime":"143 minutes",
+        "language":"Hindi",
+        "genre":"Romance",
+        "director":"Abhishek Varman"
+
+    },
+    {
+        "id":13,
+        "year":2015,
+        "name":"Bajrangi Bhaijaan",
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/old_images/vertical/MOVIE/1777/1000071777/1000071777-v",
+        "cast":"Salman Khan, Harshaali Malhotra ,Nawazuddin Siddiqui",
+        "overview":"A simple guy,Pawan Kumar Chaturvedi,who is a hanuman bhakt takes it upon himself to help a lost;mute girl;reach her home in Pakistan!",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":3.5,
+        "imdbrating":8,
+        "runtime":"152 minutes",
+        "language":"Hindi",
+        "genre":"Drama",
+        "director":"Kabir Khan"
+
+    },
+    {
+        "id":14,
+        "year":2018,
+        "name":"Banglore Days",
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5071/635071-v",
+        "cast":"Nazriya Nazim, Nivin Pauly, Dulquer Salmaan",
+        "overview":"Three cousins -Divya,Kuttan and Arjun-have always dreamt of living in Banglore. When they get there,they end up discovering their true selves. ",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":4.2,
+        "imdbrating":8.3,
+        "runtime":"164 minutes",
+        "language":"Malayalam",
+        "genre":"Romance",
+        "director":"Anjali Menon"
+
+    },
+    {
+        "id":15,
+        "name":"Pink","year":2021,
+        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/old_images/vertical/MOVIE/4578/1000154578/1000154578-v",
+        "cast":"Taapsee Pannu, Amitabh Bachchan, Kriti Kulhari",
+        "overview":"When three single city girls meet a politician's kin and his friends, a night out becomes a nightmare,which then causes a clash of societal norms and justice.",
+        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+        "rating":4,
+        "imdbrating":8.1,
+        "runtime":"130 minutes",
+        "language":"Hindi",
+        "genre":"Drama",
+        "director":"Aniruddha Roy Chowdhury"
+
+    }
+
+],
+
+    "aha" : [
+        {
+    
+            "id":1,
+            "year":2020,
+            "name":"KRACK",
+            "genre":"Action",
+            "profile":"https://image.tmdb.org/t/p/w500/jWzsCbUVeMZy286wNEhhYN3iDSO.jpg",
+            "cast": " Ravi TejaShruti HaasanSamuthirakaniVaralaxmi SarathkumarRavi Shanka", 
+            "overview":" When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating": 3.4,
+            "imdbrating": 7.3,
+            "runtime": "154mins",
+            "language":"Telugu" ,
+            "director":"Gopichand Malineni"
+        },
+        {
+    
+            "id":2,
+            "name":"ZOMBIE REDDY ",
+            "genre":"Action",
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/zOARINtSEjagdoWtrxaxn7rMoLu.jpg",
+            "cast": "Sajja Teja,Anandhi,Daksha Nagarkar,Prudhvi Raj ", 
+            "overview":" Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating":3.2 ,
+            "imdbrating":6.7 ,
+            "runtime":"125mins" ,
+            "language":"Telugu" ,
+            "director":"Anish Krishna"
+        },
+        {
+    
+            "id":3,
+            "name":"GAALI SAMPATH "     ,
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/eO6uVzyCXy7jPcUVv2HQ2hfJX03.jpg",
+            "cast": "RajendraPrasad , Sri Vishnu,LovelySingh,Satya ", 
+            "overview":" Gaali Sampath loses his voice in an accident and unknowingly plays spoilsport in his son's love story. When his son yells at him for sabotaging his plans, a disappointed Sampath leaving home slips into a well left uncovered. How he survives in the well is the crux of the story. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating": 3.8,
+            "imdbrating":7.5 ,
+            "runtime": "130mins ",
+            "genre":"Comedy",
+            "language":"Telugu" ,
+            "director":"Anish Krishna"
+        },
+        {
+    
+            "id":4,
+            "name":" NAANDHI"     ,
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/6mZFY6DuNWbti1yvI3jlwpOchFK.jpg",
+            "cast": "Allari Naresh,Varalaxmi Sarathkumar,Priyadarshi,Praveen ", 
+            "overview":" Surya Prakash's life takes an unexpected turn when he is wrongly implicated in a murder case and serves prison as an undertrial for five years. When junior lawyer Aadhya enters his life as a ray of hope, the duo wages a legal battle. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating":4 ,
+            "imdbrating":8 ,
+            "genre":"Crime",
+            "runtime":"122mins" ,
+            "language": "Telugu",
+            "director":"Vijay Kanakamedala"
+        },
+        {
+    
+            "id":5,
+            "name":"SUPER OVER "     ,
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/fm0sn57GF0LmWVlxZ4tv6IhP4Nl.jpg",
+            "cast": "Naveen Chandra,Chandini Chowdary,Rakendu Mouli,Ajay ", 
+            "overview":"Luck favours Kaasi and his friends in cricket betting but soon lands them in inevitable trouble. What follows is a chase with unforeseen events and turns, leading to an unprecedented ending. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating":3.5 ,
+            "imdbrating":6.9 ,
+            "runtime": "59mins ",
+            "language":"Telugu" ,
+            "genre":"Crime",
+            "director":"Praveen Varma"
+        },
+        {
+    
+            "id":6,
+            "name":"MAIL "     ,
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/vqbPpFXwLs6RhmkMmuHy9tvzSYm.jpg",
+            "cast": " Priyadarshi,Harshith Malgireddy,Mani Aegurala,Gouripriya Reddy", 
+            "overview":" Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating": 3.9,
+            "imdbrating": 7.7,
+            "runtime": "116mins " ,
+            "language": "Telugu",
+            "genre":"Drama",
+            "director":"Uday Gurrala"
+        },
+       
+         {
+            "id":7,
+            "name":"THELLAVARITHE GURUVARAM"     ,
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/bSLxyPoHPjWUiW7aKhVDhPwzoqS.jpg",
+            "cast": "Sri Simha,Chitra Shukla,Misha Narang,Rajeev Kanakala ", 
+            "overview":" The story is about a couple who are on the verge of entering into wedlock the next morning. However, hours before their wedding, both of them plan to elope separately. The rest of the story is all about how their lives change over the night.",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg ",
+            "rating":3.4 ,
+            "imdbrating": 6.7,
+            "genre":"Romance",
+            "runtime":"126mins " ,
+            "language": "Telugu",
+            "director":"Manikanth Gelli"
+        },
+        {
+    
+            "id":8,
+            "name":"OREY BUJJIGA "     ,
+            "year":2020,
+            "profile":"https://image.tmdb.org/t/p/w500/lqe6h18aaA9KcqKeVJd9YkjcwNo.jpg",
+            "cast": "Raj Tarun,Malvika Nair,Hebah Patel,Posani Krishna Murali, Posani Krishna Murali ",  
+            "overview":"What begins as a chance encounter between Bujji and Krishnaveni, after running away from the village for different reasons, ends up starting a comedy of errors as fate brings them together in the same office under mistaken identities. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating":3.3 ,
+            "imdbrating": 6.8,
+            "runtime": "164mins " ,
+            "language": "Telugu",
+            "director":"Vijay Kumar Konda"
+        },
+        {
+    
+            "id":9,
+            "name":"COLOUR PHOTO "     ,
+            "year":2020,
+            "profile":"https://image.tmdb.org/t/p/w500/bIWllaoYL82jIFMOGLc066gu6Xf.jpg",
+            "cast": "Suhas,Chandini Chowdary,Sunil,Viva Harsha  ", 
+            "overview":" A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama.",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating":4 ,
+            "imdbrating": 8.1,
+            "runtime":"141mins" ,
+            "language":"Telugu" ,
+            "director":"Sandeep Raj"
+        },
+        {
+    
+            "id":10,
+            "name":" KHAIDI"     ,
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+            "cast": "Karthi,Narain,Dheena,George Maryan ", 
+            "overview":"An ex-felon is finally out of prison to meet his daughter, but a twist in the circumstances leaves him in charge of saving unconscious police officers. He, along with Inspector Bejoy, must fight their way through betrayal to defeat the drug lord and emerge victoriously. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating":4.6 ,
+            "imdbrating":8.4 ,
+            "runtime": "147mins ",
+            "language": "Telugu",
+            "director":"Lokesh Kanagaraj"
+        },
+        {
+    
+            "id":11,
+            "name":"ARJUN SURAVARAM "     ,
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/Jps8Yqe9K0Gsid2gg9Dlmw2hrQ.jpg",
+            "cast": "Nikhil SiddarthLavanya TripathiVennela KishoreNagineedu ", 
+            "overview":"Arjun decides to pursue his dream of becoming an investigative journalist but finds himself tangled in the middle of a major corruption scam. He and Kavya set off on an adventure to prove his innocence only to uncover the evil forces waiting to take them down. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating":3.5 ,
+            "imdbrating":6.9 ,
+            "runtime":"150mins " ,
+            "language": "Telugu",
+            "director":"T Santhosh"
+        },
+        {
+    
+            "id":12,
+            "name":" KRISHNA AND HIS LEELA"     ,
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/wWxlSzqdpevCFyh4sak8XFbkEMT.jpg",
+            "cast": "Sidhu Jonnalagadda,Shraddha Srinath,Shalini Vadnikatti,Seerat Kapoor ", 
+            "overview":" Tangled between two women, Krishna's confusing journey to understand love and relationships.",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating": 2.7,
+            "imdbrating":5.4 ,
+            "runtime":"125mins " ,
+            "language":"Telugu" ,
+            "director":"Ravikanth Perepu"
+        },
+        {
+    
+            "id":13,
+            "name":" MAARI 2"     ,
+            "year":2021,
+            "profile":"https://image.tmdb.org/t/p/w500/tThalcNdwf4RLwMis5RMXebtQzI.jpg",
+            "cast": " Dhanush,Sai Pallavi,Tovino Thomas,Robo Shankar", 
+            "overview":" Maari is a fun-loving gangster with a golden heart, and Anandi loves him. Beeja escapes from jail and is looking to take revenge on Maari. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating":2.8 ,
+            "imdbrating": 5.6,
+            "runtime":"150mins " ,
+            "language":"Telugu" ,
+            "director":"Balaji Mohan"
+        },
+        {
+    
+            "id":14,
+            "name":"BHANUMATHI & RAMAKRISHNA "     ,
+            "year":2020,
+            "profile":"https://image.tmdb.org/t/p/w500/Ag5XeTmbu9goww5gBYPNFRNYYW1.jpg",
+            "cast": "Naveen ChandraSalony LuthraRaja ChemboluHarsha Chemudu ", 
+            "overview":"A love story between two misfits hailing from contrasting worlds and their navigation through struggles of work, life and love. ",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating": 3.5,
+            "imdbrating":7.0,
+            "runtime":"93mins " ,
+            "language":"Telugu" ,
+            "director":"Srikanth Nagothi"
+        },
+        {
+    
+            "id":15,
+            "name":"TRANCE"     ,
+            "year":2020,
+            "profile":"https://image.tmdb.org/t/p/w500/xSvRAYGLV3mfSLCzZgyuN3OTo1G.jpg",
+            "cast": "Fahadh Faasil,Nazriya Nazim,Gautham Menon,Chemban Vinod Jose", 
+            "overview":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return.",
+            "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+            "rating":4.3 ,
+            "imdbrating":7.3 ,
+            "runtime": "170mins ",
+            "language":"Telugu" ,
+            "director":"Anwar Rasheed"
+        }
+      
+      
+    ],
+        "hotstar":[
+            {
+                "id":1,
+                "year":2020,
+                "name":"Baaghi3",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+                "cast":"Tiger Shroff,Shraddha Kapoor,Riteish Deshmukh",
+                "overview":"In a twisted turn of events,when a group of deadly terrorists kidnap Ronnie's elder brother in Dyria,he sets off on a mission to bring him back ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":2.5,
+                "imdbrating":5,
+                "runtime":"144 minutes",
+                "language":"Hindi",
+                "genre":"Action",
+                "director":"Ahmed Khan"
+    
+            },
+            {
+                "id":5,
+                "year":2020,
+                "name":"Sulthan",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7899/977899-v",
+                "cast":"Karthi,rakshmika Mandanna, Napolean",
+                "overview":"Despite being raised by hardened criminals,Vikram,aka Sultan,hates violence and decides to transform them into law-abiding citizens.But will they agree? ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.5,
+                "imdbrating":6.4,
+                "runtime":"156 minutes",
+                "language":"Tamil/Telugu",
+                "genre":"Action",
+                "director":"Bakkiyaraj Kannan"
+        
+            },
+            {
+                "id":6,
+                "name":"Dil Bechara",
+                "year":2020,
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3085/723085-v",
+                "cast":"Sushanth Singh Rajput, Sanjana Sanghi , Sahil Vaid",
+                "overview":"Kizie and Manny , two ordinary people brought together by a tragic twist, embark on a bittersweet and extraordinary journey into the heart of that crazy little thing called 'Life'. ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.3,
+                "imdbrating":6.6,
+                "runtime":"161 minutes",
+                "language":"Hindi",
+                "genre":"Romance",
+                "director":"Mukesh Chhabra"
+        
+            },
+            {
+                "id":7,
+                "name":"Frozen II",
+                "year":2020,
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5206/875206-v",
+                "cast":"Kristen Bell (voice) , idina Menzel ( voice) , Josh ad (voice)",
+                "overview":"Why was Elsa born with magical powers?Together with Anna,Kristoff,Olaf,and Sven, she sets out on a dangerous but remarkable journey to find the answer. ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.4,
+                "imdbrating":6.8,
+                "runtime":"104 minutes",
+                "language":"English/Hindi/Tamil/Telugu",
+                "genre":"Musical",
+                "director":"Chris Buck , Jennifer Lee"
+        
+            },
+            {
+                "id":2,
+                "year":2018,
+                "name":"Bahubali2:The Conclusion",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5085/635085-v",
+                "cast":"Prabhas,Rana Daggubati,Anushka,Tamanna,RamyaKrishna,Satya raj,Nazar",
+                "overview":"Why did Kattappa Kill Amarendra Baahubali? Find out the answer to this monumental questions as you watch Amarendra's son in action in the sequel",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":4,
+                "imdbrating":8.2,
+                "runtime":"160 minutes",
+                "language":"Telugu/Tamil/Hindi",
+                "genre":"Action",
+                "director":"S.S.Rajamouli"
+    
+            },
+            {
+                "id":3,
+                "name":"Tanhaji",
+                "year":2020,
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7676/647676-v",
+                "cast":"Ajay Devgn,Saif Ali Khan,Kajol",
+                "overview":"As Aurangzeb captures the Kondhana Fort,Tanhaji Malusare,Shivaji Maharaj's trusted military leader and braveheart, ventures out to win it back. ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.4,
+                "imdbrating":7.6,
+                "runtime":"132 minutes",
+                "language":"Hindi/marathi",
+                "genre":"Action",
+                "director":"Om Raut"
+    
+            },
+            {
+                "id":4,
+                "year":2020,
+                "name":"Mission Mangal",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1529/571529-v",
+                "cast":"Akshay Kumar,Vidya Balan,Taapsee Pannu ,Nitya Menon",
+                "overview":"Based on the true story of India's finest scientists who rose above hardships and failures to make us the only country to reach Mars in its first attempt ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":4,
+                "imdbrating":6.5,
+                "runtime":"130 minutes",
+                "language":"Hindi",
+                "genre":"Drama",
+                "director":"Jagan Shakti"
+    
+            },
+            {
+                "id":5,
+                "year":2020,
+                "name":"Sulthan",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7899/977899-v",
+                "cast":"Karthi,rakshmika Mandanna, Napolean",
+                "overview":"Despite being raised by hardened criminals,Vikram,aka Sultan,hates violence and decides to transform them into law-abiding citizens.But will they agree? ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.5,
+                "imdbrating":6.4,
+                "runtime":"156 minutes",
+                "language":"Tamil/Telugu",
+                "genre":"Action",
+                "director":"Bakkiyaraj Kannan"
+    
+            },
+            {
+                "id":6,
+                "name":"Dil Bechara",
+                "year":2020,
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3085/723085-v",
+                "cast":"Sushanth Singh Rajput, Sanjana Sanghi , Sahil Vaid",
+                "overview":"Kizie and Manny , two ordinary people brought together by a tragic twist, embark on a bittersweet and extraordinary journey into the heart of that crazy little thing called 'Life'. ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.3,
+                "imdbrating":6.6,
+                "runtime":"161 minutes",
+                "language":"Hindi",
+                "genre":"Romance",
+                "director":"Mukesh Chhabra"
+    
+            },
+            {
+                "id":7,
+                "name":"Frozen II",
+                "year":2020,
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5206/875206-v",
+                "cast":"Kristen Bell (voice) , idina Menzel ( voice) , Josh ad (voice)",
+                "overview":"Why was Elsa born with magical powers?Together with Anna,Kristoff,Olaf,and Sven, she sets out on a dangerous but remarkable journey to find the answer. ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.4,
+                "imdbrating":6.8,
+                "runtime":"104 minutes",
+                "language":"English/Hindi/Tamil/Telugu",
+                "genre":"Musical",
+                "director":"Chris Buck , Jennifer Lee"
+    
+            },
+            {
+                "id":8,
+                "year":2020,
+                "name":"Total Dhamaal",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/8285/388285-v",
+                "cast":"Ajay Devgn ,Anil Kapoor,Madhuri Dixit ",
+                "overview":"When 50 million bucks are at stake, six eccentric people will do whatever it takes,including braving the wild. Who will win this race against time?",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":2.1,
+                "imdbrating":4.2,
+                "runtime":"127 minutes",
+                "language":"Hindi",
+                "genre":"Comedy",
+                "director":"Indra Kumar"
+    
+            },
+            {
+                "id":9,
+                "year":2020,
+                "name":"Houseful 4",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3669/593669-v",
+                "cast":"Akshay Kumar,Sam Nagar, Riteish Deshmukh",
+                "overview":"A set of six lovers had to part ways in 1419. Six centuries later, they meet again only to realise that they are marrying the wrong partners, Old villain and a series of mishaps turn this reincarnation drama into a comedy of errors.",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":1.7,
+                "imdbrating":3.4,
+                "runtime":"135 minutes",
+                "language":"Hindi",
+                "genre":"Comedy",
+                "director":"Farhad Samji"
+    
+            },
+            {
+                "id":10,
+                "year":2020,
+                "name":"Gang Leader",
+                "profile":"https://image.tmdb.org/t/p/w500/ejXpzRk1jyZenFhYANehhk4vGcD.jpg",
+                "cast":"Nani,Priyanka,Lakshmi",
+                "overview":"pencil is a budding crime novalist looking for inspiration when he crosses paths with five generations of women who come together with for vegeance.",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.8,
+                "imdbrating":7.7,
+                "runtime":"155 minutes",
+                "language":"Telugu/Tamil",
+                "genre":"Comedy",
+                "director":"Vikram K. Kumar"
+    
+            },
+            {
+                "id":11,
+                "year":2020,
+                "name":"Raid",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/old_images/vertical/MOVIE/2789/1000212789/1000212789-v",
+                "cast":"Ajay Devgn , Ileana SCruz , Amit Bimrot",
+                "overview":"Fearless income tax officer Amay Patnaik carries out a risky raid at the mansion odf the most powerful man in lucknow.Inspired by real life events. ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.7,
+                "imdbrating":7.4,
+                "runtime":"115 minutes",
+                "language":"Hindi",
+                "genre":"Crime",
+                "director":"Raj Kumar Gupta"
+    
+            },
+            {
+                "id":12,
+                "year":2018,
+                "name":"2 States",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/old_images/vertical/MOVIE/4502/1000034502/1000034502-v",
+                "cast":"Arjun Kapoor, Alia Bhatt, Amrita Singh",
+                "overview":"Based on a novel by Chetan Bhagat;North and South Indian come together in this whirlwind romance between a punjabi boy and a tamilian girl",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.8,
+                "imdbrating":6.9,
+                "runtime":"143 minutes",
+                "language":"Hindi",
+                "genre":"Romance",
+                "director":"Abhishek Varman"
+    
+            },
+            {
+                "id":13,
+                "year":2015,
+                "name":"Bajrangi Bhaijaan",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/old_images/vertical/MOVIE/1777/1000071777/1000071777-v",
+                "cast":"Salman Khan, Harshaali Malhotra ,Nawazuddin Siddiqui",
+                "overview":"A simple guy,Pawan Kumar Chaturvedi,who is a hanuman bhakt takes it upon himself to help a lost;mute girl;reach her home in Pakistan!",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":3.5,
+                "imdbrating":8,
+                "runtime":"152 minutes",
+                "language":"Hindi",
+                "genre":"Drama",
+                "director":"Kabir Khan"
+    
+            },
+            {
+                "id":14,
+                "year":2018,
+                "name":"Banglore Days",
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5071/635071-v",
+                "cast":"Nazriya Nazim, Nivin Pauly, Dulquer Salmaan",
+                "overview":"Three cousins -Divya,Kuttan and Arjun-have always dreamt of living in Banglore. When they get there,they end up discovering their true selves. ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":4.2,
+                "imdbrating":8.3,
+                "runtime":"164 minutes",
+                "language":"Malayalam",
+                "genre":"Romance",
+                "director":"Anjali Menon"
+    
+            },
+            {
+                "id":15,
+                "name":"Pink","year":2021,
+                "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/old_images/vertical/MOVIE/4578/1000154578/1000154578-v",
+                "cast":"Taapsee Pannu, Amitabh Bachchan, Kriti Kulhari",
+                "overview":"When three single city girls meet a politician's kin and his friends, a night out becomes a nightmare,which then causes a clash of societal norms and justice.",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":4,
+                "imdbrating":8.1,
+                "runtime":"130 minutes",
+                "language":"Hindi",
+                "genre":"Drama",
+                "director":"Aniruddha Roy Chowdhury"
+    
+            }
+        
+        ],
+            "aha" : [
+                {
+            
+                    "id":1,
+                    "year":2020,
+                    "name":"KRACK"     ,
+                    "profile":"https://image.tmdb.org/t/p/w500/jWzsCbUVeMZy286wNEhhYN3iDSO.jpg",
+                    "cast": " Ravi TejaShruti HaasanSamuthirakaniVaralaxmi SarathkumarRavi Shanka", 
+                    "overview":" When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.4,
+                    "imdbrating": 7.3,
+                    "runtime": "154mins",
+                    "language":"Telugu" ,
+                    "director":"Gopichand Malineni"
+                },
+                {
+            
+                    "id":2,
+                    "name":"ZOMBIE REDDY ",
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/zOARINtSEjagdoWtrxaxn7rMoLu.jpg",
+                    "cast": "Sajja Teja,Anandhi,Daksha Nagarkar,Prudhvi Raj ", 
+                    "overview":" Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.2 ,
+                    "imdbrating":6.7 ,
+                    "runtime":"125mins" ,
+                    "language":"Telugu" ,
+                    "director":"Anish Krishna"
+                },
+                {
+            
+                    "id":3,
+                    "name":"GAALI SAMPATH "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/eO6uVzyCXy7jPcUVv2HQ2hfJX03.jpg",
+                    "cast": "RajendraPrasad , Sri Vishnu,LovelySingh,Satya ", 
+                    "overview":" Gaali Sampath loses his voice in an accident and unknowingly plays spoilsport in his son's love story. When his son yells at him for sabotaging his plans, a disappointed Sampath leaving home slips into a well left uncovered. How he survives in the well is the crux of the story. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.8,
+                    "imdbrating":7.5 ,
+                    "runtime": "130mins ",
+                    "language":"Telugu" ,
+                    "director":"Anish Krishna"
+                },
+                {
+            
+                    "id":4,
+                    "name":" NAANDHI"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/6mZFY6DuNWbti1yvI3jlwpOchFK.jpg",
+                    "cast": "Allari Naresh,Varalaxmi Sarathkumar,Priyadarshi,Praveen ", 
+                    "overview":" Surya Prakash's life takes an unexpected turn when he is wrongly implicated in a murder case and serves prison as an undertrial for five years. When junior lawyer Aadhya enters his life as a ray of hope, the duo wages a legal battle. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating":8 ,
+                    "runtime":"122mins" ,
+                    "language": "Telugu",
+                    "director":"Vijay Kanakamedala"
+                },
+                {
+            
+                    "id":5,
+                    "name":"SUPER OVER "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/fm0sn57GF0LmWVlxZ4tv6IhP4Nl.jpg",
+                    "cast": "Naveen Chandra,Chandini Chowdary,Rakendu Mouli,Ajay ", 
+                    "overview":"Luck favours Kaasi and his friends in cricket betting but soon lands them in inevitable trouble. What follows is a chase with unforeseen events and turns, leading to an unprecedented ending. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.5 ,
+                    "imdbrating":6.9 ,
+                    "runtime": "59mins ",
+                    "language":"Telugu" ,
+                    "director":"Praveen Varma"
+                },
+                {
+            
+                    "id":6,
+                    "name":"MAIL "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/vqbPpFXwLs6RhmkMmuHy9tvzSYm.jpg",
+                    "cast": " Priyadarshi,Harshith Malgireddy,Mani Aegurala,Gouripriya Reddy", 
+                    "overview":" Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.9,
+                    "imdbrating": 7.7,
+                    "runtime": "116mins " ,
+                    "language": "Telugu",
+                    "director":"Uday Gurrala"
+                },
+               
+                 {
+                    "id":7,
+                    "name":"THELLAVARITHE GURUVARAM"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/bSLxyPoHPjWUiW7aKhVDhPwzoqS.jpg",
+                    "cast": "Sri Simha,Chitra Shukla,Misha Narang,Rajeev Kanakala ", 
+                    "overview":" The story is about a couple who are on the verge of entering into wedlock the next morning. However, hours before their wedding, both of them plan to elope separately. The rest of the story is all about how their lives change over the night.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg ",
+                    "rating":3.4 ,
+                    "imdbrating": 6.7,
+                    "runtime":"126mins " ,
+                    "language": "Telugu",
+                    "director":"Manikanth Gelli"
+                },
+                {
+            
+                    "id":8,
+                    "name":"OREY BUJJIGA "     ,
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/lqe6h18aaA9KcqKeVJd9YkjcwNo.jpg",
+                    "cast": "Raj Tarun,Malvika Nair,Hebah Patel,Posani Krishna Murali, Posani Krishna Murali ",  
+                    "overview":"What begins as a chance encounter between Bujji and Krishnaveni, after running away from the village for different reasons, ends up starting a comedy of errors as fate brings them together in the same office under mistaken identities. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.3 ,
+                    "imdbrating": 6.8,
+                    "runtime": "164mins " ,
+                    "language": "Telugu",
+                    "director":"Vijay Kumar Konda"
+                },
+                {
+            
+                    "id":9,
+                    "name":"COLOUR PHOTO "     ,
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/bIWllaoYL82jIFMOGLc066gu6Xf.jpg",
+                    "cast": "Suhas,Chandini Chowdary,Sunil,Viva Harsha  ", 
+                    "overview":" A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating": 8.1,
+                    "runtime":"141mins" ,
+                    "language":"Telugu" ,
+                    "director":"Sandeep Raj"
+                },
+                {
+            
+                    "id":10,
+                    "name":" KHAIDI"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+                    "cast": "Karthi,Narain,Dheena,George Maryan ", 
+                    "overview":"An ex-felon is finally out of prison to meet his daughter, but a twist in the circumstances leaves him in charge of saving unconscious police officers. He, along with Inspector Bejoy, must fight their way through betrayal to defeat the drug lord and emerge victoriously. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.6 ,
+                    "imdbrating":8.4 ,
+                    "runtime": "147mins ",
+                    "language": "Telugu",
+                    "director":"Lokesh Kanagaraj"
+                },
+                {
+            
+                    "id":11,
+                    "name":"ARJUN SURAVARAM "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/Jps8Yqe9K0Gsid2gg9Dlmw2hrQ.jpg",
+                    "cast": "Nikhil SiddarthLavanya TripathiVennela KishoreNagineedu ", 
+                    "overview":"Arjun decides to pursue his dream of becoming an investigative journalist but finds himself tangled in the middle of a major corruption scam. He and Kavya set off on an adventure to prove his innocence only to uncover the evil forces waiting to take them down. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.5 ,
+                    "imdbrating":6.9 ,
+                    "runtime":"150mins " ,
+                    "language": "Telugu",
+                    "director":"T Santhosh"
+                },
+                {
+            
+                    "id":12,
+                    "name":" KRISHNA AND HIS LEELA"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/wWxlSzqdpevCFyh4sak8XFbkEMT.jpg",
+                    "cast": "Sidhu Jonnalagadda,Shraddha Srinath,Shalini Vadnikatti,Seerat Kapoor ", 
+                    "overview":" Tangled between two women, Krishna's confusing journey to understand love and relationships.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 2.7,
+                    "imdbrating":5.4 ,
+                    "runtime":"125mins " ,
+                    "language":"Telugu" ,
+                    "director":"Ravikanth Perepu"
+                },
+                {
+            
+                    "id":13,
+                    "name":" MAARI 2"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/tThalcNdwf4RLwMis5RMXebtQzI.jpg",
+                    "cast": " Dhanush,Sai Pallavi,Tovino Thomas,Robo Shankar", 
+                    "overview":" Maari is a fun-loving gangster with a golden heart, and Anandi loves him. Beeja escapes from jail and is looking to take revenge on Maari. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":2.8 ,
+                    "imdbrating": 5.6,
+                    "runtime":"150mins " ,
+                    "language":"Telugu" ,
+                    "director":"Balaji Mohan"
+                },
+                {
+            
+                    "id":14,
+                    "name":"BHANUMATHI & RAMAKRISHNA "     ,
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/Ag5XeTmbu9goww5gBYPNFRNYYW1.jpg",
+                    "cast": "Naveen ChandraSalony LuthraRaja ChemboluHarsha Chemudu ", 
+                    "overview":"A love story between two misfits hailing from contrasting worlds and their navigation through struggles of work, life and love. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.5,
+                    "imdbrating":7.0,
+                    "runtime":"93mins " ,
+                    "language":"Telugu" ,
+                    "director":"Srikanth Nagothi"
+                },
+                {
+            
+                    "id":15,
+                    "name":"TRANCE"     ,
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/xSvRAYGLV3mfSLCzZgyuN3OTo1G.jpg",
+                    "cast": "Fahadh Faasil,Nazriya Nazim,Gautham Menon,Chemban Vinod Jose", 
+                    "overview":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.3 ,
+                    "imdbrating":7.3 ,
+                    "runtime": "170mins ",
+                    "language":"Telugu" ,
+                    "director":"Anwar Rasheed"
+                }
+            
+            ],
+            "trendingmovies":[
+                {
+
+                    
+                    "id":1,
+                    "name":"TRANCE"     ,
+                    "genre":"Action",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/xSvRAYGLV3mfSLCzZgyuN3OTo1G.jpg",
+                    "cast": "Fahadh Faasil,Nazriya Nazim,Gautham Menon,Chemban Vinod Jose", 
+                    "overview":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.3 ,
+                    "imdbrating":7.3 ,
+                    "runtime": "170mins ",
+                    "language":"Telugu" ,
+                    "director":"Anwar Rasheed"
+                },
+                {
+            
+                    "id":4,
+                    "name":" NAANDHI"     ,
+                    "year":2021,
+                    "genre":"Crime",
+                    "profile":"https://image.tmdb.org/t/p/w500/6mZFY6DuNWbti1yvI3jlwpOchFK.jpg",
+                    "cast": "Allari Naresh,Varalaxmi Sarathkumar,Priyadarshi,Praveen ", 
+                    "overview":" Surya Prakash's life takes an unexpected turn when he is wrongly implicated in a murder case and serves prison as an undertrial for five years. When junior lawyer Aadhya enters his life as a ray of hope, the duo wages a legal battle. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating":8 ,
+                    "runtime":"122mins" ,
+                    "language": "Telugu",
+                    "director":"Vijay Kanakamedala"
+                },
+                {
+            
+                    "id":5,
+                    "name":"SUPER OVER "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/fm0sn57GF0LmWVlxZ4tv6IhP4Nl.jpg",
+                    "cast": "Naveen Chandra,Chandini Chowdary,Rakendu Mouli,Ajay ", 
+                    "overview":"Luck favours Kaasi and his friends in cricket betting but soon lands them in inevitable trouble. What follows is a chase with unforeseen events and turns, leading to an unprecedented ending. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.5 ,
+                    "imdbrating":6.9 ,
+                    "runtime": "59mins ",
+                    "genre":"Crime",
+                    "language":"Telugu" ,
+                    "director":"Praveen Varma"
+                },
+                {
+            
+                    "id":6,
+                    "name":"MAIL "     ,
+                    "year":2021,
+                    "genre":"Comedy",
+                    "profile":"https://image.tmdb.org/t/p/w500/vqbPpFXwLs6RhmkMmuHy9tvzSYm.jpg",
+                    "cast": " Priyadarshi,Harshith Malgireddy,Mani Aegurala,Gouripriya Reddy", 
+                    "overview":" Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.9,
+                    "imdbrating": 7.7,
+                    "runtime": "116mins " ,
+                    "language": "Telugu",
+                    "director":"Uday Gurrala"
+                },
+                {
+                    "id":2,
+                    "name":"COLOUR PHOTO "     ,
+                    "genre":"Action",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/bIWllaoYL82jIFMOGLc066gu6Xf.jpg",
+                    "cast": "Suhas,Chandini Chowdary,Sunil,Viva Harsha  ", 
+                    "overview":" A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating": 8.1,
+                    "runtime":"141mins" ,
+                    "language":"Telugu" ,
+                    "director":"Sandeep Raj"
+
+                },
+                {
+                    "id":3,
+                    "year":2020,
+                    "name":"Sulthan",
+                    "profile":"https://image.tmdb.org/t/p/w500/z9TqB7GcyM0tMOFlI5mZuqNq351.jpg",
+                    "cast":"Karthi,rakshmika Mandanna, Napolean",
+                    "overview":"Despite being raised by hardened criminals,Vikram,aka Sultan,hates violence and decides to transform them into law-abiding citizens.But will they agree? ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.5,
+                    "imdbrating":6.4,
+                    "runtime":"156 minutes",
+                    "language":"Tamil/Telugu",
+                    "genre":"Action",
+                    "director":"Bakkiyaraj Kannan"
+                },
+                {
+                    "id":4,
+                    "year":2020,
+                    "name":"KRACK"     ,
+                    "genre":"Action",
+                    "profile":"https://image.tmdb.org/t/p/w500/jWzsCbUVeMZy286wNEhhYN3iDSO.jpg",
+                    "cast": " Ravi TejaShruti HaasanSamuthirakaniVaralaxmi SarathkumarRavi Shanka", 
+                    "overview":" When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.4,
+                    "imdbrating": 7.3,
+                    "runtime": "154mins",
+                    "language":"Telugu" ,
+                    "director":"Gopichand Malineni"
+                },
+                {
+                    "id":5,
+                    "name":"ZOMBIE REDDY ",
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/zOARINtSEjagdoWtrxaxn7rMoLu.jpg",
+                    "cast": "Sajja Teja,Anandhi,Daksha Nagarkar,Prudhvi Raj ", 
+                    "overview":" Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.2 ,
+                    "imdbrating":6.7 ,
+                    "runtime":"125mins" ,
+                    "language":"Telugu" ,
+                    "genre":"Action",
+                    "director":"Anish Krishna"
+                },
+                {
+                    "id":6,
+                    "year":2020,
+                    "name":"Gang Leader",
+                    "profile":"https://image.tmdb.org/t/p/w500/ejXpzRk1jyZenFhYANehhk4vGcD.jpg",
+                    "cast":"Nani,Priyanka,Lakshmi",
+                    "overview":"pencil is a budding crime novalist looking for inspiration when he crosses paths with five generations of women who come together with for vegeance.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.8,
+                    "imdbrating":7.7,
+                    "runtime":"155 minutes",
+                    "language":"Telugu/Tamil",
+                    "genre":"Comedy",
+                    "director":"Vikram K. Kumar"
+
+                },
+                {
+                    "id":8,
+                    "year":2020,
+                    "name":"Total Dhamaal",
+                    "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/8285/388285-v",
+                    "cast":"Ajay Devgn ,Anil Kapoor,Madhuri Dixit ",
+                    "overview":"When 50 million bucks are at stake, six eccentric people will do whatever it takes,including braving the wild. Who will win this race against time?",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":2.1,
+                    "imdbrating":4.2,
+                    "runtime":"127 minutes",
+                    "language":"Hindi",
+                    "genre":"Comedy",
+                    "director":"Indra Kumar"
+        
+                },
+                {
+                    "id":7,
+                    "year":2021,
+                    "name":"Karnan",
+                    "genre":"Action",
+                    "profile":"https://image.tmdb.org/t/p/w500/xIDQqpLBYHrXE9G34UbVD9K0pvG.jpg",
+                    "cast":"Dhanush,Lal,Rajisha Vijayan,Yogi Babu",
+                    "overview":"An angry young man fights for the rights of his oppressed people. Can he save them from those who wield power and weapons? ", 
+                    "wheretowatch":"https://i.pinimg.com/564x/af/3c/04/af3c040bb316cf65b7bc569037e2d933.jpg",
+                    "rating":4.5,
+                    "imdbrating":8.5,
+                    "runtime":"152 minutes",
+                    "language":"Tamil",
+                    "director":"Mari Selvraj"   
+                },
+                {
+                    "id":11,
+                    "name":"ARJUN SURAVARAM ",
+                    "genre":"Action",
+                    
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/Jps8Yqe9K0Gsid2gg9Dlmw2hrQ.jpg",
+                    "cast": "Nikhil SiddarthLavanya TripathiVennela KishoreNagineedu ", 
+                    "overview":"Arjun decides to pursue his dream of becoming an investigative journalist but finds himself tangled in the middle of a major corruption scam. He and Kavya set off on an adventure to prove his innocence only to uncover the evil forces waiting to take them down. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.5 ,
+                    "imdbrating":6.9 ,
+                    "runtime":"150mins " ,
+                    "language": "Telugu",
+                    "director":"T Santhosh"
+                },
+            {
+                "id":14,
+                "year":2018,
+                "name":"Banglore Days",
+                "profile":"https://image.tmdb.org/t/p/w500/iFMyZw1DTGvZ8hPa0eTseSFiRT1.jpg",
+                "cast":"Nazriya Nazim, Nivin Pauly, Dulquer Salmaan",
+                "overview":"Three cousins -Divya,Kuttan and Arjun-have always dreamt of living in Banglore. When they get there,they end up discovering their true selves. ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":4.2,
+                "imdbrating":8.3,
+                "runtime":"164 minutes",
+                "language":"Malayalam",
+                "genre":"Romance",
+                "director":"Anjali Menon"
+
+                },
+                {
+                    "id":12,
+                    "name":" KRISHNA AND HIS LEELA"     ,
+                    "year":2021,
+                    "genre":"Romance",
+                    "profile":"https://image.tmdb.org/t/p/w500/wWxlSzqdpevCFyh4sak8XFbkEMT.jpg",
+                    "cast": "Sidhu Jonnalagadda,Shraddha Srinath,Shalini Vadnikatti,Seerat Kapoor ", 
+                    "overview":" Tangled between two women, Krishna's confusing journey to understand love and relationships.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 2.7,
+                    "imdbrating":5.4 ,
+                    "runtime":"125mins " ,
+                    "language":"Telugu" ,
+                    "director":"Ravikanth Perepu"
+                  
+                },  
+                {
+            
+                    "id":10,
+                    "name":" KHAIDI"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+                    "cast": "Karthi,Narain,Dheena,George Maryan ", 
+                    "overview":"An ex-felon is finally out of prison to meet his daughter, but a twist in the circumstances leaves him in charge of saving unconscious police officers. He, along with Inspector Bejoy, must fight their way through betrayal to defeat the drug lord and emerge victoriously. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.6 ,
+                    "imdbrating":8.4 ,
+                    "genre":"Action",
+                    "runtime": "147mins ",
+                    "language": "Telugu",
+                    "director":"Lokesh Kanagaraj"
+                },
+                {
+                    "id":6,
+                    "name":"Dil Bechara",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/yNBRZc8K9sxUjpObMj3t8IbbwK5.jpg",
+                    "cast":"Sushanth Singh Rajput, Sanjana Sanghi , Sahil Vaid",
+                    "overview":"Kizie and Manny , two ordinary people brought together by a tragic twist, embark on a bittersweet and extraordinary journey into the heart of that crazy little thing called 'Life'. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.3,
+                    "imdbrating":6.6,
+                    "runtime":"161 minutes",
+                    "language":"Hindi",
+                    "genre":"Romance",
+                    "director":"Mukesh Chhabra"
+        
+                },
+                {
+                    "id":13,
+                    "year":2015,
+                    "name":"Bajrangi Bhaijaan",
+                    "profile":"https://image.tmdb.org/t/p/w500/4v1UPQJy3YL3A2YCg2MrVLgamj8.jpg",
+                    "cast":"Salman Khan, Harshaali Malhotra ,Nawazuddin Siddiqui",
+                    "overview":"A simple guy,Pawan Kumar Chaturvedi,who is a hanuman bhakt takes it upon himself to help a lost;mute girl;reach her home in Pakistan!",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.5,
+                    "imdbrating":8,
+                    "runtime":"152 minutes",
+                    "language":"Hindi",
+                    "genre":"Drama",
+                    "director":"Kabir Khan"
+        
+                },
+                {
+                    "id":10,
+                    "year":2020,
+                    "name":"Gang Leader",
+                    "profile":"https://image.tmdb.org/t/p/w500/ejXpzRk1jyZenFhYANehhk4vGcD.jpg",
+                    "cast":"Nani,Priyanka,Lakshmi",
+                    "overview":"pencil is a budding crime novalist looking for inspiration when he crosses paths with five generations of women who come together with for vegeance.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.8,
+                    "imdbrating":7.7,
+                    "runtime":"155 minutes",
+                    "language":"Telugu/Tamil",
+                    "genre":"Comedy",
+                    "director":"Vikram K. Kumar"
+        
+                }
+            ],
+            "netflix":[
+                {
+
+                    
+                    "id":1,
+                    "name":"TRANCE"     ,
+                    "genre":"Action",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/xSvRAYGLV3mfSLCzZgyuN3OTo1G.jpg",
+                    "cast": "Fahadh Faasil,Nazriya Nazim,Gautham Menon,Chemban Vinod Jose", 
+                    "overview":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.3 ,
+                    "imdbrating":7.3 ,
+                    "runtime": "170mins ",
+                    "language":"Telugu" ,
+                    "director":"Anwar Rasheed"
+                },
+                {
+            
+                    "id":4,
+                    "name":" NAANDHI"     ,
+                    "year":2021,
+                    "genre":"Crime",
+                    "profile":"https://image.tmdb.org/t/p/w500/6mZFY6DuNWbti1yvI3jlwpOchFK.jpg",
+                    "cast": "Allari Naresh,Varalaxmi Sarathkumar,Priyadarshi,Praveen ", 
+                    "overview":" Surya Prakash's life takes an unexpected turn when he is wrongly implicated in a murder case and serves prison as an undertrial for five years. When junior lawyer Aadhya enters his life as a ray of hope, the duo wages a legal battle. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating":8 ,
+                    "runtime":"122mins" ,
+                    "language": "Telugu",
+                    "director":"Vijay Kanakamedala"
+                },
+                {
+            
+                    "id":5,
+                    "name":"SUPER OVER "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/fm0sn57GF0LmWVlxZ4tv6IhP4Nl.jpg",
+                    "cast": "Naveen Chandra,Chandini Chowdary,Rakendu Mouli,Ajay ", 
+                    "overview":"Luck favours Kaasi and his friends in cricket betting but soon lands them in inevitable trouble. What follows is a chase with unforeseen events and turns, leading to an unprecedented ending. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.5 ,
+                    "imdbrating":6.9 ,
+                    "runtime": "59mins ",
+                    "genre":"Crime",
+                    "language":"Telugu" ,
+                    "director":"Praveen Varma"
+                },
+                {
+            
+                    "id":6,
+                    "name":"MAIL "     ,
+                    "year":2021,
+                    "genre":"Comedy",
+                    "profile":"https://image.tmdb.org/t/p/w500/vqbPpFXwLs6RhmkMmuHy9tvzSYm.jpg",
+                    "cast": " Priyadarshi,Harshith Malgireddy,Mani Aegurala,Gouripriya Reddy", 
+                    "overview":" Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.9,
+                    "imdbrating": 7.7,
+                    "runtime": "116mins " ,
+                    "language": "Telugu",
+                    "director":"Uday Gurrala"
+                },
+                {
+                    "id":2,
+                    "name":"COLOUR PHOTO "     ,
+                    "genre":"Action",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/bIWllaoYL82jIFMOGLc066gu6Xf.jpg",
+                    "cast": "Suhas,Chandini Chowdary,Sunil,Viva Harsha  ", 
+                    "overview":" A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating": 8.1,
+                    "runtime":"141mins" ,
+                    "language":"Telugu" ,
+                    "director":"Sandeep Raj"
+
+                },
+                {
+                    "id":3,
+                    "year":2020,
+                    "name":"Sulthan",
+                    "profile":"https://image.tmdb.org/t/p/w500/z9TqB7GcyM0tMOFlI5mZuqNq351.jpg",
+                    "cast":"Karthi,rakshmika Mandanna, Napolean",
+                    "overview":"Despite being raised by hardened criminals,Vikram,aka Sultan,hates violence and decides to transform them into law-abiding citizens.But will they agree? ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.5,
+                    "imdbrating":6.4,
+                    "runtime":"156 minutes",
+                    "language":"Tamil/Telugu",
+                    "genre":"Action",
+                    "director":"Bakkiyaraj Kannan"
+                },
+                {
+                    "id":4,
+                    "year":2020,
+                    "name":"KRACK"     ,
+                    "genre":"Action",
+                    "profile":"https://image.tmdb.org/t/p/w500/jWzsCbUVeMZy286wNEhhYN3iDSO.jpg",
+                    "cast": " Ravi TejaShruti HaasanSamuthirakaniVaralaxmi SarathkumarRavi Shanka", 
+                    "overview":" When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.4,
+                    "imdbrating": 7.3,
+                    "runtime": "154mins",
+                    "language":"Telugu" ,
+                    "director":"Gopichand Malineni"
+                },
+                {
+                    "id":5,
+                    "name":"ZOMBIE REDDY ",
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/zOARINtSEjagdoWtrxaxn7rMoLu.jpg",
+                    "cast": "Sajja Teja,Anandhi,Daksha Nagarkar,Prudhvi Raj ", 
+                    "overview":" Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.2 ,
+                    "imdbrating":6.7 ,
+                    "runtime":"125mins" ,
+                    "language":"Telugu" ,
+                    "genre":"Action",
+                    "director":"Anish Krishna"
+                },
+                {
+                    "id":6,
+                    "year":2020,
+                    "name":"Gang Leader",
+                    "profile":"https://image.tmdb.org/t/p/w500/ejXpzRk1jyZenFhYANehhk4vGcD.jpg",
+                    "cast":"Nani,Priyanka,Lakshmi",
+                    "overview":"pencil is a budding crime novalist looking for inspiration when he crosses paths with five generations of women who come together with for vegeance.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.8,
+                    "imdbrating":7.7,
+                    "runtime":"155 minutes",
+                    "language":"Telugu/Tamil",
+                    "genre":"Comedy",
+                    "director":"Vikram K. Kumar"
+
+                },
+                {
+                    "id":8,
+                    "year":2020,
+                    "name":"Total Dhamaal",
+                    "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/8285/388285-v",
+                    "cast":"Ajay Devgn ,Anil Kapoor,Madhuri Dixit ",
+                    "overview":"When 50 million bucks are at stake, six eccentric people will do whatever it takes,including braving the wild. Who will win this race against time?",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":2.1,
+                    "imdbrating":4.2,
+                    "runtime":"127 minutes",
+                    "language":"Hindi",
+                    "genre":"Comedy",
+                    "director":"Indra Kumar"
+        
+                },
+                {
+                    "id":7,
+                    "year":2021,
+                    "name":"Karnan",
+                    "genre":"Action",
+                    "profile":"https://image.tmdb.org/t/p/w500/xIDQqpLBYHrXE9G34UbVD9K0pvG.jpg",
+                    "cast":"Dhanush,Lal,Rajisha Vijayan,Yogi Babu",
+                    "overview":"An angry young man fights for the rights of his oppressed people. Can he save them from those who wield power and weapons? ", 
+                    "wheretowatch":"https://i.pinimg.com/564x/af/3c/04/af3c040bb316cf65b7bc569037e2d933.jpg",
+                    "rating":4.5,
+                    "imdbrating":8.5,
+                    "runtime":"152 minutes",
+                    "language":"Tamil",
+                    "director":"Mari Selvraj"   
+                },
+                {
+                    "id":11,
+                    "name":"ARJUN SURAVARAM ",
+                    "genre":"Action",
+                    
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/Jps8Yqe9K0Gsid2gg9Dlmw2hrQ.jpg",
+                    "cast": "Nikhil SiddarthLavanya TripathiVennela KishoreNagineedu ", 
+                    "overview":"Arjun decides to pursue his dream of becoming an investigative journalist but finds himself tangled in the middle of a major corruption scam. He and Kavya set off on an adventure to prove his innocence only to uncover the evil forces waiting to take them down. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.5 ,
+                    "imdbrating":6.9 ,
+                    "runtime":"150mins " ,
+                    "language": "Telugu",
+                    "director":"T Santhosh"
+                },
+            {
+                "id":14,
+                "year":2018,
+                "name":"Banglore Days",
+                "profile":"https://image.tmdb.org/t/p/w500/iFMyZw1DTGvZ8hPa0eTseSFiRT1.jpg",
+                "cast":"Nazriya Nazim, Nivin Pauly, Dulquer Salmaan",
+                "overview":"Three cousins -Divya,Kuttan and Arjun-have always dreamt of living in Banglore. When they get there,they end up discovering their true selves. ",
+                "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                "rating":4.2,
+                "imdbrating":8.3,
+                "runtime":"164 minutes",
+                "language":"Malayalam",
+                "genre":"Romance",
+                "director":"Anjali Menon"
+
+                },
+                {
+                    "id":12,
+                    "name":" KRISHNA AND HIS LEELA"     ,
+                    "year":2021,
+                    "genre":"Romance",
+                    "profile":"https://image.tmdb.org/t/p/w500/wWxlSzqdpevCFyh4sak8XFbkEMT.jpg",
+                    "cast": "Sidhu Jonnalagadda,Shraddha Srinath,Shalini Vadnikatti,Seerat Kapoor ", 
+                    "overview":" Tangled between two women, Krishna's confusing journey to understand love and relationships.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 2.7,
+                    "imdbrating":5.4 ,
+                    "runtime":"125mins " ,
+                    "language":"Telugu" ,
+                    "director":"Ravikanth Perepu"
+                  
+                },  
+                {
+            
+                    "id":10,
+                    "name":" KHAIDI"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+                    "cast": "Karthi,Narain,Dheena,George Maryan ", 
+                    "overview":"An ex-felon is finally out of prison to meet his daughter, but a twist in the circumstances leaves him in charge of saving unconscious police officers. He, along with Inspector Bejoy, must fight their way through betrayal to defeat the drug lord and emerge victoriously. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.6 ,
+                    "imdbrating":8.4 ,
+                    "genre":"Action",
+                    "runtime": "147mins ",
+                    "language": "Telugu",
+                    "director":"Lokesh Kanagaraj"
+                },
+                {
+                    "id":6,
+                    "name":"Dil Bechara",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/yNBRZc8K9sxUjpObMj3t8IbbwK5.jpg",
+                    "cast":"Sushanth Singh Rajput, Sanjana Sanghi , Sahil Vaid",
+                    "overview":"Kizie and Manny , two ordinary people brought together by a tragic twist, embark on a bittersweet and extraordinary journey into the heart of that crazy little thing called 'Life'. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.3,
+                    "imdbrating":6.6,
+                    "runtime":"161 minutes",
+                    "language":"Hindi",
+                    "genre":"Romance",
+                    "director":"Mukesh Chhabra"
+        
+                },
+                {
+                    "id":13,
+                    "year":2015,
+                    "name":"Bajrangi Bhaijaan",
+                    "profile":"https://image.tmdb.org/t/p/w500/4v1UPQJy3YL3A2YCg2MrVLgamj8.jpg",
+                    "cast":"Salman Khan, Harshaali Malhotra ,Nawazuddin Siddiqui",
+                    "overview":"A simple guy,Pawan Kumar Chaturvedi,who is a hanuman bhakt takes it upon himself to help a lost;mute girl;reach her home in Pakistan!",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.5,
+                    "imdbrating":8,
+                    "runtime":"152 minutes",
+                    "language":"Hindi",
+                    "genre":"Drama",
+                    "director":"Kabir Khan"
+        
+                },
+                {
+                    "id":10,
+                    "year":2020,
+                    "name":"Gang Leader",
+                    "profile":"https://image.tmdb.org/t/p/w500/ejXpzRk1jyZenFhYANehhk4vGcD.jpg",
+                    "cast":"Nani,Priyanka,Lakshmi",
+                    "overview":"pencil is a budding crime novalist looking for inspiration when he crosses paths with five generations of women who come together with for vegeance.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.8,
+                    "imdbrating":7.7,
+                    "runtime":"155 minutes",
+                    "language":"Telugu/Tamil",
+                    "genre":"Comedy",
+                    "director":"Vikram K. Kumar"
+        
+                }
+            ],
+            "topmovies":[
+                {
+    
+                    "id":1,
+                    "year":2020,
+                    "name":"KRACK",
+                    "genre":"Action",
+                    "profile":"https://image.tmdb.org/t/p/w500/jWzsCbUVeMZy286wNEhhYN3iDSO.jpg",
+                    "cast": " Ravi TejaShruti HaasanSamuthirakaniVaralaxmi SarathkumarRavi Shanka", 
+                    "overview":" When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.4,
+                    "imdbrating": 7.3,
+                    "runtime": "154mins",
+                    "language":"Telugu" ,
+                    "director":"Gopichand Malineni"
+                },
+                {
+            
+                    "id":2,
+                    "name":"ZOMBIE REDDY ",
+                    "genre":"Action",
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/zOARINtSEjagdoWtrxaxn7rMoLu.jpg",
+                    "cast": "Sajja Teja,Anandhi,Daksha Nagarkar,Prudhvi Raj ", 
+                    "overview":" Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.2 ,
+                    "imdbrating":6.7 ,
+                    "runtime":"125mins" ,
+                    "language":"Telugu" ,
+                    "director":"Anish Krishna"
+                },
+                {
+            
+                    "id":3,
+                    "name":"GAALI SAMPATH "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/eO6uVzyCXy7jPcUVv2HQ2hfJX03.jpg",
+                    "cast": "RajendraPrasad , Sri Vishnu,LovelySingh,Satya ", 
+                    "overview":" Gaali Sampath loses his voice in an accident and unknowingly plays spoilsport in his son's love story. When his son yells at him for sabotaging his plans, a disappointed Sampath leaving home slips into a well left uncovered. How he survives in the well is the crux of the story. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.8,
+                    "imdbrating":7.5 ,
+                    "runtime": "130mins ",
+                    "genre":"Comedy",
+                    "language":"Telugu" ,
+                    "director":"Anish Krishna"
+                },
+                {
+            
+                    "id":4,
+                    "name":" NAANDHI"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/6mZFY6DuNWbti1yvI3jlwpOchFK.jpg",
+                    "cast": "Allari Naresh,Varalaxmi Sarathkumar,Priyadarshi,Praveen ", 
+                    "overview":" Surya Prakash's life takes an unexpected turn when he is wrongly implicated in a murder case and serves prison as an undertrial for five years. When junior lawyer Aadhya enters his life as a ray of hope, the duo wages a legal battle. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating":8 ,
+                    "genre":"Crime",
+                    "runtime":"122mins" ,
+                    "language": "Telugu",
+                    "director":"Vijay Kanakamedala"
+                },
+                {
+            
+                    "id":5,
+                    "name":"SUPER OVER "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/fm0sn57GF0LmWVlxZ4tv6IhP4Nl.jpg",
+                    "cast": "Naveen Chandra,Chandini Chowdary,Rakendu Mouli,Ajay ", 
+                    "overview":"Luck favours Kaasi and his friends in cricket betting but soon lands them in inevitable trouble. What follows is a chase with unforeseen events and turns, leading to an unprecedented ending. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.5 ,
+                    "imdbrating":6.9 ,
+                    "runtime": "59mins ",
+                    "language":"Telugu" ,
+                    "genre":"Crime",
+                    "director":"Praveen Varma"
+                },
+                {
+            
+                    "id":6,
+                    "name":"MAIL "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/vqbPpFXwLs6RhmkMmuHy9tvzSYm.jpg",
+                    "cast": " Priyadarshi,Harshith Malgireddy,Mani Aegurala,Gouripriya Reddy", 
+                    "overview":" Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.9,
+                    "imdbrating": 7.7,
+                    "runtime": "116mins " ,
+                    "language": "Telugu",
+                    "genre":"Drama",
+                    "director":"Uday Gurrala"
+                },
+               
+                 {
+                    "id":7,
+                    "name":"THELLAVARITHE GURUVARAM"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/bSLxyPoHPjWUiW7aKhVDhPwzoqS.jpg",
+                    "cast": "Sri Simha,Chitra Shukla,Misha Narang,Rajeev Kanakala ", 
+                    "overview":" The story is about a couple who are on the verge of entering into wedlock the next morning. However, hours before their wedding, both of them plan to elope separately. The rest of the story is all about how their lives change over the night.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg ",
+                    "rating":3.4 ,
+                    "imdbrating": 6.7,
+                    "genre":"Romance",
+                    "runtime":"126mins " ,
+                    "language": "Telugu",
+                    "director":"Manikanth Gelli"
+                },
+                {
+            
+                    "id":8,
+                    "name":"OREY BUJJIGA "     ,
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/lqe6h18aaA9KcqKeVJd9YkjcwNo.jpg",
+                    "cast": "Raj Tarun,Malvika Nair,Hebah Patel,Posani Krishna Murali, Posani Krishna Murali ",  
+                    "overview":"What begins as a chance encounter between Bujji and Krishnaveni, after running away from the village for different reasons, ends up starting a comedy of errors as fate brings them together in the same office under mistaken identities. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.3 ,
+                    "imdbrating": 6.8,
+                    "runtime": "164mins " ,
+                    "language": "Telugu",
+                    "director":"Vijay Kumar Konda"
+                },
+                {
+            
+                    "id":9,
+                    "name":"COLOUR PHOTO "     ,
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/bIWllaoYL82jIFMOGLc066gu6Xf.jpg",
+                    "cast": "Suhas,Chandini Chowdary,Sunil,Viva Harsha  ", 
+                    "overview":" A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating": 8.1,
+                    "runtime":"141mins" ,
+                    "language":"Telugu" ,
+                    "director":"Sandeep Raj"
+                },
+                {
+            
+                    "id":10,
+                    "name":" KHAIDI"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+                    "cast": "Karthi,Narain,Dheena,George Maryan ", 
+                    "overview":"An ex-felon is finally out of prison to meet his daughter, but a twist in the circumstances leaves him in charge of saving unconscious police officers. He, along with Inspector Bejoy, must fight their way through betrayal to defeat the drug lord and emerge victoriously. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.6 ,
+                    "imdbrating":8.4 ,
+                    "runtime": "147mins ",
+                    "language": "Telugu",
+                    "director":"Lokesh Kanagaraj"
+                },
+                {
+            
+                    "id":11,
+                    "name":"ARJUN SURAVARAM "     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/Jps8Yqe9K0Gsid2gg9Dlmw2hrQ.jpg",
+                    "cast": "Nikhil SiddarthLavanya TripathiVennela KishoreNagineedu ", 
+                    "overview":"Arjun decides to pursue his dream of becoming an investigative journalist but finds himself tangled in the middle of a major corruption scam. He and Kavya set off on an adventure to prove his innocence only to uncover the evil forces waiting to take them down. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.5 ,
+                    "imdbrating":6.9 ,
+                    "runtime":"150mins " ,
+                    "language": "Telugu",
+                    "director":"T Santhosh"
+                },
+                {
+            
+                    "id":12,
+                    "name":" KRISHNA AND HIS LEELA"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/wWxlSzqdpevCFyh4sak8XFbkEMT.jpg",
+                    "cast": "Sidhu Jonnalagadda,Shraddha Srinath,Shalini Vadnikatti,Seerat Kapoor ", 
+                    "overview":" Tangled between two women, Krishna's confusing journey to understand love and relationships.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 2.7,
+                    "imdbrating":5.4 ,
+                    "runtime":"125mins " ,
+                    "language":"Telugu" ,
+                    "director":"Ravikanth Perepu"
+                },
+                {
+            
+                    "id":13,
+                    "name":" MAARI 2"     ,
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/tThalcNdwf4RLwMis5RMXebtQzI.jpg",
+                    "cast": " Dhanush,Sai Pallavi,Tovino Thomas,Robo Shankar", 
+                    "overview":" Maari is a fun-loving gangster with a golden heart, and Anandi loves him. Beeja escapes from jail and is looking to take revenge on Maari. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":2.8 ,
+                    "imdbrating": 5.6,
+                    "runtime":"150mins " ,
+                    "language":"Telugu" ,
+                    "director":"Balaji Mohan"
+                },
+                {
+            
+                    "id":14,
+                    "name":"BHANUMATHI & RAMAKRISHNA "     ,
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/Ag5XeTmbu9goww5gBYPNFRNYYW1.jpg",
+                    "cast": "Naveen ChandraSalony LuthraRaja ChemboluHarsha Chemudu ", 
+                    "overview":"A love story between two misfits hailing from contrasting worlds and their navigation through struggles of work, life and love. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.5,
+                    "imdbrating":7.0,
+                    "runtime":"93mins " ,
+                    "language":"Telugu" ,
+                    "director":"Srikanth Nagothi"
+                },
+                {
+            
+                    "id":15,
+                    "name":"TRANCE"     ,
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/xSvRAYGLV3mfSLCzZgyuN3OTo1G.jpg",
+                    "cast": "Fahadh Faasil,Nazriya Nazim,Gautham Menon,Chemban Vinod Jose", 
+                    "overview":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.3 ,
+                    "imdbrating":7.3 ,
+                    "runtime": "170mins ",
+                    "language":"Telugu" ,
+                    "director":"Anwar Rasheed"
+                }
+              
+              
+            ],
+                "hotstar":[
+                    {
+                        "id":1,
+                        "year":2020,
+                        "name":"Baaghi3",
+                        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+                        "cast":"Tiger Shroff,Shraddha Kapoor,Riteish Deshmukh",
+                        "overview":"In a twisted turn of events,when a group of deadly terrorists kidnap Ronnie's elder brother in Dyria,he sets off on a mission to bring him back ",
+                        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                        "rating":2.5,
+                        "imdbrating":5,
+                        "runtime":"144 minutes",
+                        "language":"Hindi",
+                        "genre":"Action",
+                        "director":"Ahmed Khan"
+            
+                    },
+                    {
+                        "id":5,
+                        "year":2020,
+                        "name":"Sulthan",
+                        "profile":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7899/977899-v",
+                        "cast":"Karthi,rakshmika Mandanna, Napolean",
+                        "overview":"Despite being raised by hardened criminals,Vikram,aka Sultan,hates violence and decides to transform them into law-abiding citizens.But will they agree? ",
+                        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                        "rating":3.5,
+                        "imdbrating":6.4,
+                        "runtime":"156 minutes",
+                        "language":"Tamil/Telugu",
+                        "genre":"Action",
+                        "director":"Bakkiyaraj Kannan"
+                
+                    },
+                {
+
+                    
+                    "id":1,
+                    "name":"TRANCE"     ,
+                    "genre":"Action",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/xSvRAYGLV3mfSLCzZgyuN3OTo1G.jpg",
+                    "cast": "Fahadh Faasil,Nazriya Nazim,Gautham Menon,Chemban Vinod Jose", 
+                    "overview":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.3 ,
+                    "imdbrating":7.3 ,
+                    "runtime": "170mins ",
+                    "language":"Telugu" ,
+                    "director":"Anwar Rasheed"
+                },
+                {
+                    "id":2,
+                    "name":"COLOUR PHOTO "     ,
+                    "genre":"Action",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/bIWllaoYL82jIFMOGLc066gu6Xf.jpg",
+                    "cast": "Suhas,Chandini Chowdary,Sunil,Viva Harsha  ", 
+                    "overview":" A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating": 8.1,
+                    "runtime":"141mins" ,
+                    "language":"Telugu" ,
+                    "director":"Sandeep Raj"
+
+                },
+                {
+                    "id":3,
+                    "year":2020,
+                    "name":"Sulthan",
+                    "profile":"https://image.tmdb.org/t/p/w500/z9TqB7GcyM0tMOFlI5mZuqNq351.jpg",
+                    "cast":"Karthi,rakshmika Mandanna, Napolean",
+                    "overview":"Despite being raised by hardened criminals,Vikram,aka Sultan,hates violence and decides to transform them into law-abiding citizens.But will they agree? ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.5,
+                    "imdbrating":6.4,
+                    "runtime":"156 minutes",
+                    "language":"Tamil/Telugu",
+                    "genre":"Action",
+                    "director":"Bakkiyaraj Kannan"
+                },
+                {
+                    "id":4,
+                    "year":2020,
+                    "name":"KRACK"     ,
+                    "genre":"Action",
+                    "profile":"https://image.tmdb.org/t/p/w500/jWzsCbUVeMZy286wNEhhYN3iDSO.jpg",
+                    "cast": " Ravi TejaShruti HaasanSamuthirakaniVaralaxmi SarathkumarRavi Shanka", 
+                    "overview":" When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.4,
+                    "imdbrating": 7.3,
+                    "runtime": "154mins",
+                    "language":"Telugu" ,
+                    "director":"Gopichand Malineni"
+                },
+                {
+                    "id":5,
+                    "name":"ZOMBIE REDDY ",
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/zOARINtSEjagdoWtrxaxn7rMoLu.jpg",
+                    "cast": "Sajja Teja,Anandhi,Daksha Nagarkar,Prudhvi Raj ", 
+                    "overview":" Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.2 ,
+                    "imdbrating":6.7 ,
+                    "runtime":"125mins" ,
+                    "language":"Telugu" ,
+                    "genre":"Action",
+                    "director":"Anish Krishna"
+                },
+                {
+                    "id":14,
+                    "year":2018,
+                    "name":"Banglore Days",
+                    "profile":"https://image.tmdb.org/t/p/w500/iFMyZw1DTGvZ8hPa0eTseSFiRT1.jpg",
+                    "cast":"Nazriya Nazim, Nivin Pauly, Dulquer Salmaan",
+                    "overview":"Three cousins -Divya,Kuttan and Arjun-have always dreamt of living in Banglore. When they get there,they end up discovering their true selves. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":4.2,
+                    "imdbrating":8.3,
+                    "runtime":"164 minutes",
+                    "language":"Malayalam",
+                    "genre":"Romance",
+                    "director":"Anjali Menon"
+    
+                    }
+                ],
+                "topshows":[
+
+                    {
+                        "id":1,
+                        "year":2020,
+                        "name":"Baaghi3",
+                        "profile":"https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+                        "cast":"Tiger Shroff,Shraddha Kapoor,Riteish Deshmukh",
+                        "overview":"In a twisted turn of events,when a group of deadly terrorists kidnap Ronnie's elder brother in Dyria,he sets off on a mission to bring him back ",
+                        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                        "rating":2.5,
+                        "imdbrating":5,
+                        "runtime":"144 minutes",
+                        "language":"Hindi",
+                        "genre":"Action",
+                        "director":"Ahmed Khan"
+            
+                    },
+                    {
+                        "id":5,
+                        "year":2020,
+                        "name":"Sulthan",
+                        "profile":"https://image.tmdb.org/t/p/w500/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg",
+                        "cast":"Karthi,rakshmika Mandanna, Napolean",
+                        "overview":"Despite being raised by hardened criminals,Vikram,aka Sultan,hates violence and decides to transform them into law-abiding citizens.But will they agree? ",
+                        "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                        "rating":3.5,
+                        "imdbrating":6.4,
+                        "runtime":"156 minutes",
+                        "language":"Tamil/Telugu",
+                        "genre":"Action",
+                        "director":"Bakkiyaraj Kannan"
+                
+                    },
+                {
+
+                    
+                    "id":1,
+                    "name":"TRANCE"     ,
+                    "genre":"Action",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/v90D18LBN6oJgOrwlSoIG17e8X.jpg",
+                    "cast": "Fahadh Faasil,Nazriya Nazim,Gautham Menon,Chemban Vinod Jose", 
+                    "overview":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4.3 ,
+                    "imdbrating":7.3 ,
+                    "runtime": "170mins ",
+                    "language":"Telugu" ,
+                    "director":"Anwar Rasheed"
+                },
+                {
+                    "id":2,
+                    "name":"COLOUR PHOTO "     ,
+                    "genre":"Action",
+                    "year":2020,
+                    "profile":"https://image.tmdb.org/t/p/w500/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+                    "cast": "Suhas,Chandini Chowdary,Sunil,Viva Harsha  ", 
+                    "overview":" A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama.",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":4 ,
+                    "imdbrating": 8.1,
+                    "runtime":"141mins" ,
+                    "language":"Telugu" ,
+                    "director":"Sandeep Raj"
+
+                },
+                {
+                    "id":3,
+                    "year":2020,
+                    "name":"Sulthan",
+                    "profile":"https://image.tmdb.org/t/p/w500/hldw8UlDCGEe9jwJkSldvlVwZiU.jpg",
+                    "cast":"Karthi,rakshmika Mandanna, Napolean",
+                    "overview":"Despite being raised by hardened criminals,Vikram,aka Sultan,hates violence and decides to transform them into law-abiding citizens.But will they agree? ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":3.5,
+                    "imdbrating":6.4,
+                    "runtime":"156 minutes",
+                    "language":"Tamil/Telugu",
+                    "genre":"Action",
+                    "director":"Bakkiyaraj Kannan"
+                },
+                {
+                    "id":4,
+                    "year":2020,
+                    "name":"KRACK"     ,
+                    "genre":"Action",
+                    "profile":"https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
+                    "cast": " Ravi TejaShruti HaasanSamuthirakaniVaralaxmi SarathkumarRavi Shanka", 
+                    "overview":" When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating": 3.4,
+                    "imdbrating": 7.3,
+                    "runtime": "154mins",
+                    "language":"Telugu" ,
+                    "director":"Gopichand Malineni"
+                },
+                {
+                    "id":5,
+                    "name":"ZOMBIE REDDY ",
+                    "year":2021,
+                    "profile":"https://image.tmdb.org/t/p/w500/6zZxAFOtNwHCtTgSc2hU7pVIvDl.jpg",
+                    "cast": "Sajja Teja,Anandhi,Daksha Nagarkar,Prudhvi Raj ", 
+                    "overview":" Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/ee1e075e0b1908f42617862fa422c371_W3vvm44Any.jpeg",
+                    "rating":3.2 ,
+                    "imdbrating":6.7 ,
+                    "runtime":"125mins" ,
+                    "language":"Telugu" ,
+                    "genre":"Action",
+                    "director":"Anish Krishna"
+                },
+                {
+                    "id":14,
+                    "year":2018,
+                    "name":"Banglore Days",
+                    "profile":"https://image.tmdb.org/t/p/w500/mrVoyDFiDSqfH4mkoRtccOv2vwh.jpg",
+                    "cast":"Nazriya Nazim, Nivin Pauly, Dulquer Salmaan",
+                    "overview":"Three cousins -Divya,Kuttan and Arjun-have always dreamt of living in Banglore. When they get there,they end up discovering their true selves. ",
+                    "wheretowatch":"https://files.ottwatchlist.com/oDfPr7R8MqKURdUqj4kx3N7Ibq8hgbSXOtyARchU/2ff7e69c90c62985b4b0780bd026b856_vdYtiWGtAT.jpeg",
+                    "rating":4.2,
+                    "imdbrating":8.3,
+                    "runtime":"164 minutes",
+                    "language":"Malayalam",
+                    "genre":"Romance",
+                    "director":"Anjali Menon"
+    
+                    }
+                ]
+                
+                   
+                    }
+
+            

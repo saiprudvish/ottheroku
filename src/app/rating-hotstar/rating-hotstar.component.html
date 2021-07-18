@@ -1,0 +1,43 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 ">
+            <img src="{{HotstarObj.profile}}" alt="" width="50%"  class="mt-4  i1  d-block mx-auto">
+            <div class="col-sm-6 mt-5 head d-block mx-auto">
+                <h6 class="text-black">Rating    <span class="ms-5">{{HotstarObj.rating}} <i class="fas fa-star text-warning"></i>   <span> <i class="fab fa-imdb text-warning "></i>  {{HotstarObj.imdbrating}} </span>  </span></h6>
+                <h6 class="text-black ">Genres   <span class="ms-5 genre ">{{HotstarObj.genre}}</span></h6>
+                <h6 class=" text-black">Runtime  <span class="ms-4">{{HotstarObj.runtime}}</span></h6>
+                <h6 class=" text-black">Language <span class="ms-4">{{HotstarObj.language}}</span></h6>
+                <h6 class=" text-black">Director  <span class="ms-4">{{HotstarObj.director}}</span></h6> 
+            </div>
+         
+        </div>
+    <div class="col-sm-6 mt-5">
+        <div class="text-center">
+       
+    
+            <button   *ngIf="statu" class="cart me-5" (click)="onWatchSelect(HotstarObj)">
+                <i class="fas fa-eye"></i>
+            </button>
+            <button *ngIf="!statu" class="cart me-5" >
+                <i class="fas fa-check"></i>
+            </button> 
+            <button  *ngIf="status" class="cart  me-4" (click)=" onProductSelect(HotstarObj)">
+                <i class="fas fa-plus fy"></i>
+            </button>
+            <button *ngIf="!status" class="cart me-3" >
+                <i class="fas fa-check"></i>
+            </button> 
+           
+            </div>
+            <pre class=" text-center">Watched      Watchlist</pre>
+        <h3 class=" text-black">{{HotstarObj.name}} ({{HotstarObj.year}})</h3>
+        <h4 class=" text-black mt-5">Cast</h4>
+        <h5 class=" text-black mt-3">{{HotstarObj.cast}}</h5>
+        <h4 class=" text-black mt-5">Overview</h4>
+        <h5 class=" text-black mt-3">{{HotstarObj.overview}}</h5>
+        <h4 class=" text-black mt-5">Where To Watch</h4>
+        <h5 class=" text-black mt-3"><img src="{{HotstarObj.wheretowatch}}" width="7%" alt=""></h5>
+    </div>
+
+</div>
+</div>

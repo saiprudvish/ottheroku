@@ -1,0 +1,7 @@
+<h5 class="text-dark mt-5">MOVIES</h5>
+<hr class="text-dark ">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-6 g-4 mt-5 mb-5">
+    <div class="col" *ngFor="let aObj of ahaMovies">
+        <app-ottaha [productObj]=aObj></app-ottaha>
+    </div>
+</div>

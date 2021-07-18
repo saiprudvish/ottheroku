@@ -1,0 +1,15 @@
+.card{
+    border: 1px black;
+    width: 100%;
+    border-radius: 10px;
+    background-image: linear-gradient( to right,  #f47a60, #7fe7dc, #aed6dc, #ff9a8d, #4a536b);
+}
+img {
+    border-radius: 15px;
+    cursor: pointer;
+    
+}
+img:hover{
+
+        transform: scale(1.1);
+}

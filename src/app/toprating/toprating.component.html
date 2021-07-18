@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 ">
+            <img src="{{topObj.profile}}" alt="" width="50%"  class="mt-4  i1  d-block mx-auto">
+            <div class="col-sm-6 mt-5 head d-block mx-auto">
+                <h6 class="text-black">Rating    <span class="ms-5">{{topObj.rating}} <i class="fas fa-star text-warning"></i>   <span> <i class="fab fa-imdb text-warning "></i>  {{topObj.imdbrating}} </span>  </span></h6>
+                <h6 class="text-black ">Genres   <span class="ms-5 genre ">{{topObj.genre}}</span></h6>
+                <h6 class=" text-black">Runtime  <span class="ms-4">{{topObj.runtime}}</span></h6>
+                <h6 class=" text-black">Language <span class="ms-4">{{topObj.language}}</span></h6>
+                <h6 class=" text-black">Director  <span class="ms-4">{{topObj.director}}</span></h6> 
+            </div>
+         
+        </div>
+    <div class="col-sm-6 mt-5">
+        <h3 class=" text-black">{{topObj.name}} ({{topObj.year}})</h3>
+        <h4 class=" text-black mt-5">Cast</h4>
+        <h5 class=" text-black mt-3">{{topObj.cast}}</h5>
+        <h4 class=" text-black mt-5">Overview</h4>
+        <h5 class=" text-black mt-3">{{topObj.overview}}</h5>
+        <h4 class=" text-black mt-5">Where To Watch</h4>
+        <h5 class=" text-black mt-3"><img src="{{topObj.wheretowatch}}" width="7%" alt=""></h5>
+    </div>
+
+</div>
+</div>
