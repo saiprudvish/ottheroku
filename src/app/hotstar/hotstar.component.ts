@@ -12,17 +12,17 @@ export class HotstarComponent implements OnInit {
   constructor(private hObj:FirstService) { }
 
   ngOnInit(): void {
-    this.hObj.getHotstarMovies().subscribe(
-      userData=>{
-        //assign movies
-        this.HotstarMovies=userData;
+    // this.hObj.getHotstarMovies().subscribe(
+    //   userData=>{
+    //     //assign movies
+    //     this.HotstarMovies=userData;
 
        
-      },
-      err=>{
-        console.log("err in getting movies data",err)
-      }
+    //   },
+    //   err=>{
+    //     console.log("err in getting movies data",err)
+    //   }
 
-    ) 
+    // ) 
   }
 }

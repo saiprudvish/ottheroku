@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { AdminService } from '../admin.service';
 import { FirstService } from '../first.service';
 import { UserService } from '../user.service';
 
@@ -13,18 +14,20 @@ export class RatingnetflixComponent implements OnInit {
   NetflixObj;
   status=true;
   statu=true;
-
-  constructor(private ar:ActivatedRoute,private fs:FirstService,private us:UserService) { }
+  first;
+  constructor(private ar:ActivatedRoute,private fs:FirstService,private us:UserService,private ps:AdminService) { }
 
   ngOnInit(): void {
     //get id from url
     let id=this.ar.snapshot.params.id;
     
     //get data of movie with this current id
-    this.fs.getNetflixMovieRatingById(id).subscribe(
+    this.ps.getNetflixMovieRatingById(id).subscribe(
       obj=>{
   
-        this.NetflixObj=obj;
+        this.first=obj;
+        this.NetflixObj=this.first[Object.keys(this.first)[0]]
+        
       },
       err=>{
         console.log("err in reading movie",err)

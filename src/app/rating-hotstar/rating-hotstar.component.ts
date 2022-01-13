@@ -20,15 +20,15 @@ export class RatingHotstarComponent implements OnInit {
     let id=this.ar.snapshot.params.id;
     
     //get data of movie with this current id
-    this.fs.getHotstarMovieRatingById(id).subscribe(
-      obj=>{
+    // this.fs.getHotstarMovieRatingById(id).subscribe(
+    //   obj=>{
   
-        this.HotstarObj=obj;
-      },
-      err=>{
-        console.log("err in reading movie",err)
-      }
-    )
+    //     this.HotstarObj=obj;
+    //   },
+    //   err=>{
+    //     console.log("err in reading movie",err)
+    //   }
+    // )
   }
   onProductSelect(productObject){
 

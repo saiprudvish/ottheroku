@@ -13,10 +13,10 @@ productApi.post('/add-product', multerObj.single('photo'), expressErrorHandler(a
     let productCollectionObject = req.app.get("productCollectionObject")
 
     let newProduct = JSON.parse(req.body.prodObj);
-    // console.log(newProduct)
+   // console.log(newProduct)
 
     //search
-    let product = await productCollectionObject.findOne({ model: newProduct.model })
+    let product = await productCollectionObject.findOne({ name: newProduct.name })
 
     //if proudct is existed
     if (product !== null) {
@@ -38,8 +38,33 @@ productApi.get("/getproducts", expressErrorHandler(async (req, res, next) => {
     let productCollectionObject = req.app.get("productCollectionObject")
 
     let products = await productCollectionObject.find().toArray()
-
+    console.log("hello")
     res.send({ message: products })
+
+}))
+
+productApi.get("/getproducts/:id", expressErrorHandler(async (req, res, next) => {
+
+    let productCollectionObject = req.app.get("productCollectionObject")
+
+    let un = req.params.id;
+    console.log(un)
+
+    let products = await productCollectionObject.find().toArray()
+    // let first=userProdObj[Object.keys(userProdObj)[0]]
+    //console.log(products)
+    for (let key in products){
+        let obj = products[key];
+        
+        if(obj.name===un){
+            console.log(obj)
+            res.send({ message: obj })
+        }
+    }
+    
+      
+  
+    
 
 }))
 

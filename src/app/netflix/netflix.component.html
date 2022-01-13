@@ -2,7 +2,11 @@
 <hr class="text-dark ">
 <input type="text" name="name" placeholder="Search by movie" class="form-control mt-2 w-50" [(ngModel)]="searchTerm" >
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-6 g-4 mt-5 mb-5">
-    <div class="col" *ngFor="let nObj of NetflixMovies| search:searchTerm">
+    <div class="col" *ngFor="let nObj of first| search:searchTerm">
         <app-ottnetflix [productObj]=nObj></app-ottnetflix>
     </div>
 </div>
+
+    <!-- <div class="col" *ngFor="let n of first">
+        <h4>{{n.name}}</h4>
+    </div> -->

@@ -13,17 +13,17 @@ export class AhaComponent implements OnInit {
   constructor(private aObj:FirstService) { }
 
   ngOnInit(): void {
-    this.aObj.getNetflixMovies().subscribe(
-      userData=>{
-        //assign movies
-        this.ahaMovies=userData;
+    // this.aObj.getNetflixMovies().subscribe(
+    //   userData=>{
+    //     //assign movies
+    //     this.ahaMovies=userData;
 
        
-      },
-      err=>{
-        console.log("err in getting movies data",err)
-      }
+    //   },
+    //   err=>{
+    //     console.log("err in getting movies data",err)
+    //   }
 
-    ) 
+    // ) 
   }
 }

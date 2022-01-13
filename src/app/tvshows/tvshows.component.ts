@@ -12,18 +12,18 @@ export class TvshowsComponent implements OnInit {
   constructor(private tObj:FirstService) { }
 
   ngOnInit(): void {
-    this.tObj.getTopShows().subscribe(
-      userData=>{
-        //assign movies
-        this.TopShows=userData;
-        console.log(this.TopShows)
+    // this.tObj.getTopShows().subscribe(
+    //   userData=>{
+    //     //assign movies
+    //     this.TopShows=userData;
+    //     console.log(this.TopShows)
 
        
-      },
-      err=>{
-        console.log("err in getting movies data",err)
-      }
+    //   },
+    //   err=>{
+    //     console.log("err in getting movies data",err)
+    //   }
 
-    ) 
+    // ) 
 }
 }

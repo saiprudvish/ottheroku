@@ -37,6 +37,7 @@ import { UsercartComponent } from './usercart/usercart.component';
 import { SharedModule } from './shared/shared.module';
 import { WatchedComponent } from './watched/watched.component';
 import { UserprofileComponent } from './userprofile/userprofile.component';
+import { UComponent } from './u/u.component';
 
 @NgModule({
   declarations: [
@@ -70,7 +71,8 @@ import { UserprofileComponent } from './userprofile/userprofile.component';
     ProfileComponent,
     UsercartComponent,
     WatchedComponent,
-    UserprofileComponent
+    UserprofileComponent,
+    UComponent
   ],
   imports: [
     BrowserModule,

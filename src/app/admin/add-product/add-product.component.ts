@@ -33,6 +33,7 @@ export class AddProductComponent implements OnInit {
     formData.append("photo",this.file,this.file.name)
     //add userObj
     formData.append("prodObj",JSON.stringify(prodObj))
+    console.log(formData)
 
     this.adminService.addNewProduct(formData).subscribe(
       res=>{

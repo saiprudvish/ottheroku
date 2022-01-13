@@ -24,4 +24,7 @@ export class AdminService {
   
  
 }
+getNetflixMovieRatingById(id):Observable<any>{
+  return this.hc.get<any>('product/getproducts/'+id)
+}
 }

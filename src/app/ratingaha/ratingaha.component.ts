@@ -18,18 +18,18 @@ export class RatingahaComponent implements OnInit {
 
   ngOnInit(): void {
       //get id from url
-      let id=this.ar.snapshot.params.id;
+      // let id=this.ar.snapshot.params.id;
     
-      //get data of movie with this current id
-      this.fs.getAhaMovieRatingById(id).subscribe(
-        obj=>{
+      // //get data of movie with this current id
+      // this.fs.getAhaMovieRatingById(id).subscribe(
+      //   obj=>{
     
-          this.ahaObj=obj;
-        },
-        err=>{
-          console.log("err in reading movie",err)
-        }
-      )
+      //     this.ahaObj=obj;
+      //   },
+      //   err=>{
+      //     console.log("err in reading movie",err)
+      //   }
+      // )
   }
 
   onProductSelect(productObject){

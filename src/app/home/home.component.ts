@@ -23,31 +23,34 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void {
 
 
-    this.as.getProducts().subscribe(
-      res=>{
-        this.products=res.message;
-      },
-      err=>{
-        console.log("err in reading products ",err)
-        console.log("Something went wrong in reading products")
-      }
-    )
+  //   this.as.getProducts().subscribe(
+  //     res=>{
+  //       this.products=res.message;
+  //     },
+  //     err=>{
+  //       console.log("err in reading products ",err)
+  //       console.log("Something went wrong in reading products")
+  //     }
+  //   )
    
-    this.mySubscription= this.fs.getTrendMovies().subscribe(
-      userData=>{
-        //assign movies
-        this.Trendmovies=userData;
-        console.log(this.Trendmovies)
+  //   this.mySubscription= this.fs.getTrendMovies().subscribe(
+  //     userData=>{
+  //       //assign movies
+  //       this.Trendmovies=userData;
+  //       console.log(this.Trendmovies)
 
        
-      },
-      err=>{
-        console.log("err in getting movies data",err)
-      }
+  //     },
+  //     err=>{
+  //       console.log("err in getting movies data",err)
+  //     }
 
-    ) 
+  //   ) 
+  // 
   }
-  onSelectNetflix(){
+  
+   onSelectNetflix(){
+     console.log("hhdhh")
     this.router.navigateByUrl('/netflix')
   }
   onWatch(){
@@ -62,9 +65,11 @@ export class HomeComponent implements OnInit {
   onSelectPrime(){
     this.router.navigateByUrl('/prime')
   }
-  ngOnDestroy(){
-    this.mySubscription.unsubscribe();
-  }
+
+  // ngOnDestroy(){
+  //   this.mySubscription.unsubscribe();
+  // }
+
 
 
   productsSentByChild=[];
@@ -73,7 +78,8 @@ export class HomeComponent implements OnInit {
     console.log(this.productsSentByChild)
   }
  
-     
+
+
    }
 
 

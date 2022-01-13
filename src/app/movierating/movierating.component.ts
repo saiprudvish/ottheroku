@@ -23,19 +23,19 @@ export class MovieratingComponent implements OnInit {
 
   ngOnInit(): void {
       //get id from url
-      let id=this.ar.snapshot.params.id;
+      // let id=this.ar.snapshot.params.id;
     
-      //get data of movie with this current id
-      this.fs.getMovieRatingById(id).subscribe(
-        obj=>{
+      // //get data of movie with this current id
+      // this.fs.getMovieRatingById(id).subscribe(
+      //   obj=>{
     
-          this.MovieObj=obj;
-          console.log("obj is ",this.MovieObj)
-        },
-        err=>{
-          console.log("err in reading movie",err)
-        }
-      )
+      //     this.MovieObj=obj;
+      //     console.log("obj is ",this.MovieObj)
+      //   },
+      //   err=>{
+      //     console.log("err in reading movie",err)
+      //   }
+      // )
   }
 
   //movie selected by user to add in watchlist

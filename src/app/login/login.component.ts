@@ -17,6 +17,7 @@ export class LoginComponent implements OnInit {
     }
   
     onLogin(userCredentials){
+      console.log(userCredentials)
       this.us.loginUser(userCredentials).subscribe(
         res=>{
           if(res.message==="login success"){
@@ -28,12 +29,12 @@ export class LoginComponent implements OnInit {
           this.us.userLoginStatus=true;
           //navigate to home
           this.router.navigateByUrl('/home')
-          //   if(userCredentials.type==="user"){
-          //      this.router.navigateByUrl('/home')
-          //   }
-          //   if(userCredentials.type==="admin"){
-          //     this.router.navigateByUrl("/admin")
-          //     }
+            if(userCredentials.type==="user"){
+               this.router.navigateByUrl('/home')
+            }
+            if(userCredentials.type==="admin"){
+              this.router.navigateByUrl("/admin")
+              }
           }
           else{
             alert(res.message)
@@ -45,6 +46,7 @@ export class LoginComponent implements OnInit {
         }
       )
     }
+    
 
     // onLogin(ref){
     //   let userLoginObj=ref.value;

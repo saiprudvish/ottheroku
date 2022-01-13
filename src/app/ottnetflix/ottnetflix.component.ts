@@ -9,8 +9,10 @@ import { Router } from '@angular/router';
 export class OttnetflixComponent implements OnInit {
 
   @Input() productObj;
+  
   constructor(private router:Router) { }
   onSelectImage(id){
+    //console.log(id)
     this.router.navigateByUrl('netflix/'+id)
   }
   ngOnInit(): void {

@@ -12,17 +12,17 @@ export class PrimeComponent implements OnInit {
   constructor(private pObj:FirstService) { }
 
   ngOnInit(): void {
-    this.pObj.getNetflixMovies().subscribe(
-      userData=>{
-        //assign movies
-        this.primeMovies=userData;
+    // this.pObj.getNetflixMovies().subscribe(
+    //   userData=>{
+    //     //assign movies
+    //     this.primeMovies=userData;
 
        
-      },
-      err=>{
-        console.log("err in getting movies data",err)
-      }
+    //   },
+    //   err=>{
+    //     console.log("err in getting movies data",err)
+    //   }
 
-    ) 
+    // ) 
   }
 }
