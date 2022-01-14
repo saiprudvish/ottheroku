@@ -55,7 +55,7 @@ app.use("/product",productApi)
 //invalid path
 app.use((req, res, next) => {
 
-    res.send({ message: `path ${req.url} is invalid` })
+    res.send({ message: `path ${req.url} is invaid` })
 })
 
 //error handling middleware
