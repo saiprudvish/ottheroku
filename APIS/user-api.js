@@ -14,7 +14,7 @@ require("dotenv").config()
 
 
 const checkToken=require("./middlewares/verify-token");
-const expressAsyncHandler = require('express-async-handler');
+
 
 
 //http://localhost:3000/user/getusers

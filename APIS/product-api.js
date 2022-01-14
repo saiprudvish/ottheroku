@@ -1,11 +1,11 @@
 const exp=require("express")
 const productApi=exp.Router();
 const expressErrorHandler = require("express-async-handler")
-productApi.use(exp.json())
+
 const multerObj = require("./middlewares/multerCloudinary")
 
 //adding new product
-
+productApi.use(exp.json())
 productApi.post('/add-product', multerObj.single('photo'), expressErrorHandler(async (req, res, next) => {
 
 
