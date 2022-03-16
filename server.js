@@ -52,13 +52,6 @@ mc.connect(databaseUrl, {useNewUrlParser:true,  useUnifiedTopology: true}, (err,
 app.use("/user", userApi)
 app.use("/admin", adminApi)
 app.use("/product",productApi)
-//invalid path
-app.use((req, res, next) => {
-
-    res.send({ message: `path ${req.url} is invalid` })
-})
-
-
 
 
 app.get('/*', (req, res) => {
@@ -68,6 +61,17 @@ app.get('/*', (req, res) => {
         }
     })
 })
+
+
+//invalid path
+app.use((req, res, next) => {
+
+    res.send({ message: `path ${req.url} is invalid` })
+})
+
+
+
+
 
 //error handling middleware
 app.use((err, req, res, next) => {
