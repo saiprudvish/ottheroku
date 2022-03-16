@@ -58,6 +58,17 @@ app.use((req, res, next) => {
     res.send({ message: `path ${req.url} is invalid` })
 })
 
+
+
+
+app.get('/*', (req, res) => {
+    res.sendFile(path.join(__dirname, './build/index.html'), function (err) {
+        if (err) {
+            res.status(500).send(err)
+        }
+    })
+})
+
 //error handling middleware
 app.use((err, req, res, next) => {
     res.send({ message: `error is ${err.message}` })
