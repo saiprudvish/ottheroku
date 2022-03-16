@@ -5,6 +5,7 @@ const path = require("path")
 
 //connect angular app with express server
 app.use(exp.static(path.join(__dirname, './dist/angular/')))
+// app.use(exp.static(path.join(__dirname, './build/')))
 
 //import APIS
 const userApi = require("./APIS/user-api")
@@ -63,22 +64,19 @@ app.get('/*', (req, res) => {
 })
 
 
-//invalid path
+//handle invalid path
 app.use((req, res, next) => {
-
     res.send({ message: `path ${req.url} is invalid` })
 })
 
-
-
-
-
-//error handling middleware
+//handle errors
 app.use((err, req, res, next) => {
-    res.send({ message: `error is ${err.message}` })
+    console.log(err)
+    res.send({ message: err.message })
+
 })
 
 
 //assign port
-const port = process.env.PORT ||8080;
-app.listen(port, () => console.log(`server on ${port}...`))
+const port = process.env.PORT || 8080;
+app.listen(port, () => console.log(`server listening on port ${port}..`))
